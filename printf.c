@@ -10,6 +10,8 @@ int main()
 	printf("The value of a is: %i\n", a);	// %i is for integers
 	printf("The value of f is: %f\n", f);	// %f is for floating point data
 	printf("The value of c is: %c\n", c);   // %c is for single characters
+	
+	printf("a = %i, f = %f, c = %c\n", a, f, c);
 
 	return 0;
 }
